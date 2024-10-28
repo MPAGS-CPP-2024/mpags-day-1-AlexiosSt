@@ -8,7 +8,7 @@ Information about how to install.
 
 ## Authors
 The authors. 
-Alexis Stampekis
+Alexis Stampekis?
 
 ## Documentation
 Here we write info about documentation.
