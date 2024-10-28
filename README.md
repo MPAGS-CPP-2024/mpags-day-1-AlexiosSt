@@ -1,6 +1,6 @@
 # mpags-cipher
 A simple command line tool for encrypting/decrypting text using classical ciphers.
-An MPAGS course, devoted to teaching us the basics of C++.#
+An MPAGS course, devoted to teaching us the basics of C++.
 We shall use git, VSCode and Docker.
 
 ## How to install
